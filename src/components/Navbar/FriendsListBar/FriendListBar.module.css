@@ -1,0 +1,7 @@
+.friendListBarContainer {
+  padding-top:10px;
+}
+
+.friendListBarSingleItem {
+  grid-area:friend;
+}

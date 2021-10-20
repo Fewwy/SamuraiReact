@@ -1,0 +1,18 @@
+.nav {
+    grid-area: n;
+    background-color: burlywood;
+  }
+
+.navItem {
+}
+
+.navLink{
+  text-decoration: none;
+}
+
+.navFriendsList {
+  padding-top:10px;
+  display:grid;
+  grid-template-areas:
+  "friend friend friend"
+}
